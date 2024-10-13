@@ -56,11 +56,15 @@ pip install tk
 
 ![Yellow dots exemple](https://i.imgur.com/08zHlUk.png)
 
+*Source: Chaos Computer Club (CCC)*
+
 ### Step 2: Input the yellow dots matrix
 1. Open **YellowDotDecode**.
 2. On the graphical grid, manually check the boxes corresponding to the yellow dots present in your scanned document, as shown in the image below:
 
 ![Yellow Dot exemple detailed](https://i.imgur.com/ul87NOZ.png)
+
+*Source: Chaos Computer Club (CCC)*
 
 ![YellowDotDecode GUI](https://i.imgur.com/zDogM2h.png)
 
