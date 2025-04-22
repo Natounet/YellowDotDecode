@@ -5,9 +5,8 @@ class YellowDotDecoderApp:
     def __init__(self, root):
         self.root = root
         self.root.title("Yellow Dot Decoder")
-        self.root.geometry("650x600")
         self.root.eval('tk::PlaceWindow . center')
-        self.root.resizable(False, False)
+        self.root.resizable(True, True)
 
         # Interface Widgets
         self.label = tk.Label(root, text="Click the grid to mark yellow dots")
